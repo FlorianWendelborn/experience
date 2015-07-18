@@ -1,0 +1,38 @@
+{
+  "name": "experience",
+  "version": "0.0.1",
+  "description": "Easily share express, socket.io and sessions between multiple web-applications.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test",
+    "travis": "istanbul cover ./node_modules/mocha/bin/_mocha -- -R spec test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dodekeract/experience.git"
+  },
+  "keywords": [
+    "express",
+	"socket.io",
+	"share",
+	"session",
+	"multihost",
+	"multiplex",
+	"multiple",
+	"vhost",
+	"virtual host",
+	"namespace"
+  ],
+  "author": "Florian Wendelborn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dodekeract/experience/issues"
+  },
+  "homepage": "https://github.com/dodekeract/experience#readme",
+  "devDependencies": {
+    "coveralls": "^2.11.2",
+    "expect.js": "^0.3.1",
+    "istanbul": "^0.3.17",
+    "mocha": "^2.2.5"
+  }
+}
