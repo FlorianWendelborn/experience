@@ -1,5 +1,6 @@
 {
     "name": "hello-world",
     "script": "hello-world.js",
-    "dependencies": ["express", "socket.io"]
+    "dependencies": ["express", "socket.io", "mongo-session"],
+    "debug": true
 }
