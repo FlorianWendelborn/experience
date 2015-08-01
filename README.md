@@ -9,3 +9,5 @@
 [![Code Documentation](https://inch-ci.org/github/dodekeract/experience.svg)](https://inch-ci.org/github/dodekeract/experience)
 
 Easily share express, socket.io and sessions between multiple web-applications.
+
+NOT READY FOR PRIME TIME YET :(
