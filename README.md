@@ -10,4 +10,4 @@
 
 Easily share express, socket.io and sessions between multiple web-applications.
 
-NOT READY FOR PRIME TIME YET :(
+NOT RECOMMENDED. USE NGINX INSTEAD. IT'S SUPERIOR IN EVERY WAY.
